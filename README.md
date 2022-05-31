@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nickyui99
+- 👋 Hi, I’m Nicholas Ooi Zhee Chen, 3rd Year CS Student
 - 👀 I’m interested in learning new programming frameworks and algorithms
 - 🌱 I’m currently learning react native
 - 📫 Can reach me via my email nicholasooi10@gmail.com
