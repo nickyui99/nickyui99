@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicholas Ooi Zhee Chen, 4th Year CS Student
 - 👀 I’m interested in learning new programming frameworks and algorithms
-- 🌱 I’m currently learning react native
+- 🌱 I’m currently learning react native and ionic framework
 - 📫 Can reach me via my email nicholasooi10@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickyui99)](https://github.com/anuraghazra/github-readme-stats)
