@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickyui99)](https://github.com/anuraghazra/github-readme-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/nicholasooi10)
+![Leetcode Stats](https://leetcard.jacoblin.cool/nicholasooi10?ext=activity)
 
 <!---
 nickyui99/nickyui99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
